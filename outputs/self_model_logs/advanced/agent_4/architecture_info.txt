@@ -1,0 +1,10 @@
+Hidden_dim_conf_fat: 64
+Hidden_dim_pred_conf: 64
+Hidden_dim_pred_mode: 16
+LR_conf_fat: 0.007543
+LR_pred_conf: 0.003866
+LR_pred_mode: 0.006455
+Confidence_increase: 0.01221326582284813
+Confidence_decrease: 0.013298041258212705
+Fatigue_increase: 0.01963333185048748
+Fatigue_decrease: 0.019383042167565666

@@ -1,0 +1,4 @@
+=== Agent Insights ===
+Agent with highest avg_confidence: Agent 1.0
+Agent with lowest avg_fatigue: Agent 12.0
+Agent with highest switching_rate: Agent 4.0

@@ -1,0 +1,70 @@
+# ================================
+# Python - General
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ================================
+# Virtual Environments
+# ================================
+.venv/
+venv/
+ENV/
+env/
+
+# ================================
+# Jupyter Notebook checkpoints
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# VSCode settings
+# ================================
+.vscode/
+
+# ================================
+# Outputs folder structure
+# ================================
+
+# Do not ignore the outputs folder itself
+!outputs/
+
+# Do not ignore the subfolders inside outputs
+!outputs/logs/
+!outputs/metrics/
+!outputs/models/
+!outputs/scientific_metrics/
+!outputs/visualizations/
+
+
+
+# ================================
+# Operating System files
+# ================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# ================================
+# Logs and temporary files
+# ================================
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# ================================
+# Build artifacts
+# ================================
+build/
+dist/
+*.egg-info/
+
+# ================================
+# Others (optional, add more if needed)
+# ================================
+

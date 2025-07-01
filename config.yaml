@@ -1,0 +1,6 @@
+environment: CartPole-v1
+self_model: simple
+policy: rl
+num_steps: 10000
+log_interval: 100
+save_metrics: true
