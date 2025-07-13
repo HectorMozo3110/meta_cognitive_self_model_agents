@@ -2,6 +2,7 @@
 # 🤖 Neural-Augmented Self-Modeling Agents
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+Developed in association with **[NeureonMindFlux Research Lab](https://github.com/Neureonmindflux-Research-Lab)**
 
 
 ---
@@ -162,6 +163,6 @@ H. E. Mozo, "A Modular Software Framework for Neural-Augmented Self-Modeling Age
 }
 
 ---
-Developed in association with **[NeureonMindFlux Research Lab](https://github.com/Neureonmindflux-Research-Lab)**
----
+
+
 
