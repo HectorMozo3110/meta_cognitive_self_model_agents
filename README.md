@@ -162,3 +162,6 @@ H. E. Mozo, "A Modular Software Framework for Neural-Augmented Self-Modeling Age
 }
 
 ---
+Developed in association with **[NeureonMindFlux Research Lab](https://github.com/Neureonmindflux-Research-Lab)**
+---
+
